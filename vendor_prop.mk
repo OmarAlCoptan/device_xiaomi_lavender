@@ -169,6 +169,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Perf
 PRODUCT_PROPERTY_OVERRIDES += \
+    ro.vendor.perf.scroll_opt=true \
     ro.vendor.extension_library=libqti-perfd-client.so
 
 # RIL
