@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/weeb_lavender.mk
+    $(LOCAL_DIR)/blaze_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    weeb_lavender-user \
-    weeb_lavender-userdebug \
-    weeb_lavender-eng
+    blaze_lavender-user \
+    blaze_lavender-userdebug \
+    blaze_lavender-eng
